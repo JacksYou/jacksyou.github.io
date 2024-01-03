@@ -1,0 +1,15 @@
+baseURL: "https://jmesyou.github.io"
+languageCode: "en-us"
+title: "James You"
+theme: "xmin"
+
+menu:
+  main:
+    - name: Home
+      baseurl: ""
+      weight: 1
+    - name: About
+      baseurl: "about/"
+      weight: 2
+
+

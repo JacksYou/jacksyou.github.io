@@ -1,0 +1,6 @@
+[submodule "themes/dead-simple"]
+	path = themes/dead-simple
+	url = https://github.com/barklan/hugo-dead-simple
+[submodule "themes/xmin"]
+	path = themes/xmin
+	url = https://github.com/yihui/hugo-xmin
