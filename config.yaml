@@ -8,8 +8,3 @@ menu:
     - name: Home
       baseurl: ""
       weight: 1
-    - name: About
-      baseurl: "about/"
-      weight: 2
-
-
